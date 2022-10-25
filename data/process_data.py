@@ -78,8 +78,9 @@ def clean_data(df):
 def save_data(df, database_filename: str):
 
     """Stores df in a SQLite database."""
-    engine = create_engine(f'sqlite:///{database_filepath}')
-    df.to_sql('disMessages_db', engine, index=False, if_exists='replace')   
+    print(f'{database_filename}')
+    engine = create_engine(f'sqlite:///{database_filename}')
+    df.to_sql('DisasterMessages', engine, index=False, if_exists='replace')   
 
 
 def main():
@@ -105,7 +106,7 @@ def main():
               'well as the filepath of the database to save the cleaned data '\
               'to as the third argument. \n\nExample: python process_data.py '\
               'disaster_messages.csv disaster_categories.csv '\
-              'DisasterResponse.db')
+              'DisasterResponseDB.db')
 
 
 if __name__ == '__main__':
