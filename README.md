@@ -23,7 +23,7 @@ This project incluides a web app for emergany worker to input new massages and h
 
 ## Getting Started
 
-Please fin below on how to get started with the project and how to interact with it.
+Please find below on how to get started with the project and how to interact with it.
 
 ### Packages
 
@@ -84,4 +84,5 @@ Once downloaded, this is the way to get started:
 
 
 ### Licensing, Authors, Acknowledgements, etc.
+In case there are any questions, feel free to reach out to me :)
 Thanks Udacity for providing the template for the webapp and the preparation for the files.
