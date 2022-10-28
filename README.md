@@ -10,6 +10,7 @@
     - [Packages](#packages)
     - [Structure](#structure)
     - [Instructions](#instructions)
+    - [Demo](#demo)
 
 3. [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
 
@@ -80,6 +81,14 @@ Once downloaded, this is the way to get started:
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+
+
+### Demo
+
+A small sample of how the project is currenly looking. Feel free to suggest improvments!
+
+![webapp-demo](Demo.PNG)
+
 
 
 
