@@ -85,11 +85,11 @@ Once downloaded, this is the way to get started:
 
 ### Demo
 
-A small sample of how the project is currenly looking. Feel free to suggest improvments!
+A small sample of how the project is currenly looking. A simple interface to input a message. The algorithm classifies the message into different categories.
 
 ![webapp-demo](Demo.PNG)
 
-
+Feel free to suggest improvments!
 
 
 ### Licensing, Authors, Acknowledgements, etc.
